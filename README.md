@@ -26,4 +26,9 @@ Telegram bot that can download videos with watermark and audios from TikTok.
 5. Run
 ```$ python3.7 tiktokbot.py```
 
+## License
+
+The code in this repo and used modules are open-sourced software licensed under the [MIT license](LICENSE.md).
+
 Telegram Bot to download videos from TikTok without watermark: [@ttsavebot](https://t.me/ttsavebot)
+
