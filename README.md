@@ -1,6 +1,6 @@
 # TikTok Bot for Telegram
 
-Telegram bot that can download videos and audios from TikTok.
+Telegram bot that can download videos with watermark and audios from TikTok.
 
 ### Requirements For TikTok Downloader:
  * python3.7
@@ -12,8 +12,8 @@ Telegram bot that can download videos and audios from TikTok.
 # Usage
 1. Clone repository
 ```
-   $ git clone https://github.com/vionde/TikTok-no-watermark-downloader.git
-   $ cd TikTok-no-watermark-downloader
+   $ git clone https://github.com/kamronbek29/tiktok_water_bot.git
+   $ cd tiktok_water_bot
 ```
 
 2. Install requirements
