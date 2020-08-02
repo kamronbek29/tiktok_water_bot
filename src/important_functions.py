@@ -1,6 +1,7 @@
 import json
 
-from main import users_db, bot, ADMIN_ID
+from main import users_db, bot
+from config import ADMIN_ID
 from message_strings import msg_dict
 
 

@@ -7,7 +7,8 @@ import os
 from aiogram.dispatcher import FSMContext
 from aiogram.types import Message
 
-from main import ADMIN_ID, UpdateLimitation, users_db, dp, bot, AdminSendEveryOne
+from main import UpdateLimitation, users_db, dp, bot, AdminSendEveryOne
+from config import ADMIN_ID
 from message_strings import msg_dict
 
 

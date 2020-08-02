@@ -3,11 +3,9 @@ from aiogram.utils import executor
 from aiogram.types import Message
 from admin.admin import admin_commands
 from important_functions import save_user_actions, on_startup
-from main import dp, users_db, ADMIN_ID, ADMIN_LIST_COMMANDS, TIKTOK_LIST, bot, TIKTOK_LINK
+from main import dp, users_db, ADMIN_LIST_COMMANDS, TIKTOK_LIST, bot, TIKTOK_LINK
 from message_strings import msg_dict
-
-
-# Ответ на команду /rate
+from config import ADMIN_ID
 from tiktok_main import send_by_link
 
 

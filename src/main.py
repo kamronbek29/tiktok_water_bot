@@ -13,7 +13,6 @@ dp = Dispatcher(bot, storage=storage, loop=loop)
 
 users_db = redis.StrictRedis(host='localhost', port=6379, db=1)
 
-ADMIN_ID = 653391824
 ADMIN_LIST_COMMANDS = ['send_everyone', 'admin', 'backup_users_id', 'bot_stat', 'update_limitation']
 
 TIKTOK_LINK = 'https://vm.tiktok.com/'
